@@ -67,7 +67,9 @@ The code for reusing the  lane polynomials is `Line.use_last_lane_poly` function
 
 ![](./output_images/process_1_use_last_lane_poly.jpg)  
 
+
 Subsequent image frames reuse the polynomial:
+
 ![](./output_images/process_3_use_last_lane_poly.jpg)  
 ![](./output_images/process_2_use_last_lane_poly.jpg)  
 
